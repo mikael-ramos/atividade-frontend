@@ -7,3 +7,20 @@ html{
     height: 100vh;
     width: 100vw;
 }
+
+.html-explicacao{
+    display: flex;
+    justify-content: space-between;
+    width: 900px;
+    gap: 50px;
+}
+
+p{
+    margin:auto;
+    word-wrap: break-word;
+    font-size: 25px;
+}
+
+img{
+    margin: auto;
+}
