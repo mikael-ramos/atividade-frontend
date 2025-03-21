@@ -8,11 +8,12 @@ html{
     width: 100vw;
 }
 
-.html-explicacao{
+.html-explicacao, .css-explicacao{
     display: flex;
     justify-content: space-between;
-    width: 900px;
+    width: 1200px;
     gap: 50px;
+    margin-left: 120px;
 }
 
 p{
@@ -23,4 +24,8 @@ p{
 
 img{
     margin: auto;
+}
+
+.css-explicacao{
+    margin-top: 80px;
 }
